@@ -1,0 +1,10 @@
+* D:\ESTUDIO\Github\TC2\Tareas semanales\TS13\Simulaciones\Ej2.asc
+C3 N001 0 1.5882353
+C2 V2 N001 0.0934256
+C1 0 V2 0.4117647
+RL V2 0 1
+I1 0 N001 AC 1
+L2 N001 V2 1.1893
+.ac dec 1k 1m 1k
+.backanno
+.end
